@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>com.microchip.mplab.nbide.embedded.makeproject</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/make-project/1">
+            <name>stend</name>
+            <creation-uuid>36c5541f-2a9d-42a4-8717-9bb9809534d9</creation-uuid>
+            <make-project-type>0</make-project-type>
+            <c-extensions>c</c-extensions>
+            <cpp-extensions/>
+            <header-extensions/>
+            <asminc-extensions/>
+            <sourceEncoding>windows-1251</sourceEncoding>
+            <make-dep-projects>
+                <make-dep-project>../../Desktop/KaiL4eK-dspic33fj256mc710_periphery-fceb60af735a</make-dep-project>
+            </make-dep-projects>
+        </data>
+    </configuration>
+</project>
